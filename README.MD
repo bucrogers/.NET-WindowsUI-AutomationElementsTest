@@ -6,7 +6,7 @@ It targets Excel platforms 2007, 2010 and 2013.
 
 ## Approach
 
-The tests are all in the AddinUITests TestClass. Each test is succinct and short, most fit in a 
+The tests are all in the WinUITests/AddinUITests TestClass. Each test is succinct and short, most fit in a 
 single screen view.
 
 To minimize test brittleness, AutomationIds and UIA invoke / select are used throughout 
